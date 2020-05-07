@@ -1399,38 +1399,388 @@ Tanggal,Values,
 4/26/2020,SUM of NTT,1
 4/26/2020,SUM of Gorontalo,15
 4/26/2020,SUM of Z_NA,26
-Grand Total,SUM of Aceh,176
-,SUM of Bali,2618
-,SUM of Banten,7998
-,SUM of Bangka Belitung,131
-,SUM of Bengkulu,111
-,SUM of DIY,1582
-,SUM of Jakarta,65381
-,SUM of Jambi,204
-,SUM of Jabar,14724
-,SUM of Jateng,7824
-,SUM of Jatim,11470
-,SUM of Kalbar,580
-,SUM of Kaltim,1374
-,SUM of Kalteng,1088
-,SUM of Kalsel,1521
-,SUM of Kaltara,946
-,SUM of Kep Riau,1122
-,SUM of NTB,1424
-,SUM of Sumsel,1241
-,SUM of Sumbar,1272
-,SUM of Sulut,440
-,SUM of Sumut,1760
-,SUM of Sultra,599
-,SUM of Sulsel,6546
-,SUM of Sulteng,470
-,SUM of Lampung,604
-,SUM of Riau,579
-,SUM of Maluku Utara,138
-,SUM of Maluku,267
-,SUM of Papua Barat,144
-,SUM of Papua,1903
-,SUM of Sulbar,208
-,SUM of NTT,18
-,SUM of Gorontalo,88
-,SUM of Z_NA,1007
+4/27/2020,SUM of Aceh,9
+4/27/2020,SUM of Bali,194
+4/27/2020,SUM of Banten,382
+4/27/2020,SUM of Bangka Belitung,10
+4/27/2020,SUM of Bengkulu,8
+4/27/2020,SUM of DIY,83
+4/27/2020,SUM of Jakarta,3869
+4/27/2020,SUM of Jambi,32
+4/27/2020,SUM of Jabar,951
+4/27/2020,SUM of Jateng,666
+4/27/2020,SUM of Jatim,796
+4/27/2020,SUM of Kalbar,51
+4/27/2020,SUM of Kaltim,107
+4/27/2020,SUM of Kalteng,112
+4/27/2020,SUM of Kalsel,150
+4/27/2020,SUM of Kaltara,90
+4/27/2020,SUM of Kep Riau,86
+4/27/2020,SUM of NTB,206
+4/27/2020,SUM of Sumsel,129
+4/27/2020,SUM of Sumbar,121
+4/27/2020,SUM of Sulut,40
+4/27/2020,SUM of Sumut,111
+4/27/2020,SUM of Sultra,45
+4/27/2020,SUM of Sulsel,440
+4/27/2020,SUM of Sulteng,36
+4/27/2020,SUM of Lampung,42
+4/27/2020,SUM of Riau,39
+4/27/2020,SUM of Maluku Utara,26
+4/27/2020,SUM of Maluku,22
+4/27/2020,SUM of Papua Barat,16
+4/27/2020,SUM of Papua,151
+4/27/2020,SUM of Sulbar,35
+4/27/2020,SUM of NTT,1
+4/27/2020,SUM of Gorontalo,14
+4/27/2020,SUM of Z_NA,26
+4/28/2020,SUM of Aceh,9
+4/28/2020,SUM of Bali,215
+4/28/2020,SUM of Banten,388
+4/28/2020,SUM of Bangka Belitung,10
+4/28/2020,SUM of Bengkulu,8
+4/28/2020,SUM of DIY,93
+4/28/2020,SUM of Jakarta,4002
+4/28/2020,SUM of Jambi,32
+4/28/2020,SUM of Jabar,969
+4/28/2020,SUM of Jateng,682
+4/28/2020,SUM of Jatim,857
+4/28/2020,SUM of Kalbar,51
+4/28/2020,SUM of Kaltim,115
+4/28/2020,SUM of Kalteng,121
+4/28/2020,SUM of Kalsel,150
+4/28/2020,SUM of Kaltara,92
+4/28/2020,SUM of Kep Riau,89
+4/28/2020,SUM of NTB,221
+4/28/2020,SUM of Sumsel,143
+4/28/2020,SUM of Sumbar,144
+4/28/2020,SUM of Sulut,43
+4/28/2020,SUM of Sumut,111
+4/28/2020,SUM of Sultra,45
+4/28/2020,SUM of Sulsel,453
+4/28/2020,SUM of Sulteng,42
+4/28/2020,SUM of Lampung,44
+4/28/2020,SUM of Riau,40
+4/28/2020,SUM of Maluku Utara,26
+4/28/2020,SUM of Maluku,22
+4/28/2020,SUM of Papua Barat,37
+4/28/2020,SUM of Papua,177
+4/28/2020,SUM of Sulbar,37
+4/28/2020,SUM of NTT,1
+4/28/2020,SUM of Gorontalo,15
+4/28/2020,SUM of Z_NA,27
+4/29/2020,SUM of Aceh,9
+4/29/2020,SUM of Bali,215
+4/29/2020,SUM of Banten,388
+4/29/2020,SUM of Bangka Belitung,10
+4/29/2020,SUM of Bengkulu,12
+4/29/2020,SUM of DIY,94
+4/29/2020,SUM of Jakarta,4092
+4/29/2020,SUM of Jambi,32
+4/29/2020,SUM of Jabar,1009
+4/29/2020,SUM of Jateng,711
+4/29/2020,SUM of Jatim,872
+4/29/2020,SUM of Kalbar,58
+4/29/2020,SUM of Kaltim,119
+4/29/2020,SUM of Kalteng,127
+4/29/2020,SUM of Kalsel,157
+4/29/2020,SUM of Kaltara,92
+4/29/2020,SUM of Kep Riau,89
+4/29/2020,SUM of NTB,230
+4/29/2020,SUM of Sumsel,144
+4/29/2020,SUM of Sumbar,145
+4/29/2020,SUM of Sulut,44
+4/29/2020,SUM of Sumut,114
+4/29/2020,SUM of Sultra,53
+4/29/2020,SUM of Sulsel,465
+4/29/2020,SUM of Sulteng,47
+4/29/2020,SUM of Lampung,46
+4/29/2020,SUM of Riau,41
+4/29/2020,SUM of Maluku Utara,26
+4/29/2020,SUM of Maluku,23
+4/29/2020,SUM of Papua Barat,37
+4/29/2020,SUM of Papua,189
+4/29/2020,SUM of Sulbar,38
+4/29/2020,SUM of NTT,1
+4/29/2020,SUM of Gorontalo,15
+4/29/2020,SUM of Z_NA,27
+4/30/2020,SUM of Aceh,10
+4/30/2020,SUM of Bali,222
+4/30/2020,SUM of Banten,404
+4/30/2020,SUM of Bangka Belitung,10
+4/30/2020,SUM of Bengkulu,12
+4/30/2020,SUM of DIY,95
+4/30/2020,SUM of Jakarta,4175
+4/30/2020,SUM of Jambi,32
+4/30/2020,SUM of Jabar,1012
+4/30/2020,SUM of Jateng,724
+4/30/2020,SUM of Jatim,958
+4/30/2020,SUM of Kalbar,58
+4/30/2020,SUM of Kaltim,134
+4/30/2020,SUM of Kalteng,145
+4/30/2020,SUM of Kalsel,170
+4/30/2020,SUM of Kaltara,100
+4/30/2020,SUM of Kep Riau,89
+4/30/2020,SUM of NTB,230
+4/30/2020,SUM of Sumsel,150
+4/30/2020,SUM of Sumbar,148
+4/30/2020,SUM of Sulut,45
+4/30/2020,SUM of Sumut,117
+4/30/2020,SUM of Sultra,62
+4/30/2020,SUM of Sulsel,491
+4/30/2020,SUM of Sulteng,47
+4/30/2020,SUM of Lampung,46
+4/30/2020,SUM of Riau,41
+4/30/2020,SUM of Maluku Utara,40
+4/30/2020,SUM of Maluku,23
+4/30/2020,SUM of Papua Barat,37
+4/30/2020,SUM of Papua,205
+4/30/2020,SUM of Sulbar,42
+4/30/2020,SUM of NTT,3
+4/30/2020,SUM of Gorontalo,15
+4/30/2020,SUM of Z_NA,26
+5/1/2020,SUM of Aceh,11
+5/1/2020,SUM of Bali,235
+5/1/2020,SUM of Banten,418
+5/1/2020,SUM of Bangka Belitung,19
+5/1/2020,SUM of Bengkulu,12
+5/1/2020,SUM of DIY,104
+5/1/2020,SUM of Jakarta,4317
+5/1/2020,SUM of Jambi,32
+5/1/2020,SUM of Jabar,1012
+5/1/2020,SUM of Jateng,746
+5/1/2020,SUM of Jatim,1034
+5/1/2020,SUM of Kalbar,61
+5/1/2020,SUM of Kaltim,136
+5/1/2020,SUM of Kalteng,156
+5/1/2020,SUM of Kalsel,179
+5/1/2020,SUM of Kaltara,115
+5/1/2020,SUM of Kep Riau,89
+5/1/2020,SUM of NTB,233
+5/1/2020,SUM of Sumsel,156
+5/1/2020,SUM of Sumbar,172
+5/1/2020,SUM of Sulut,45
+5/1/2020,SUM of Sumut,117
+5/1/2020,SUM of Sultra,62
+5/1/2020,SUM of Sulsel,547
+5/1/2020,SUM of Sulteng,48
+5/1/2020,SUM of Lampung,50
+5/1/2020,SUM of Riau,42
+5/1/2020,SUM of Maluku Utara,41
+5/1/2020,SUM of Maluku,23
+5/1/2020,SUM of Papua Barat,42
+5/1/2020,SUM of Papua,210
+5/1/2020,SUM of Sulbar,43
+5/1/2020,SUM of NTT,3
+5/1/2020,SUM of Gorontalo,15
+5/1/2020,SUM of Z_NA,26
+5/2/2020,SUM of Aceh,11
+5/2/2020,SUM of Bali,237
+5/2/2020,SUM of Banten,427
+5/2/2020,SUM of Bangka Belitung,19
+5/2/2020,SUM of Bengkulu,12
+5/2/2020,SUM of DIY,114
+5/2/2020,SUM of Jakarta,4397
+5/2/2020,SUM of Jambi,32
+5/2/2020,SUM of Jabar,1043
+5/2/2020,SUM of Jateng,767
+5/2/2020,SUM of Jatim,1037
+5/2/2020,SUM of Kalbar,68
+5/2/2020,SUM of Kaltim,154
+5/2/2020,SUM of Kalteng,157
+5/2/2020,SUM of Kalsel,179
+5/2/2020,SUM of Kaltara,122
+5/2/2020,SUM of Kep Riau,89
+5/2/2020,SUM of NTB,250
+5/2/2020,SUM of Sumsel,156
+5/2/2020,SUM of Sumbar,182
+5/2/2020,SUM of Sulut,45
+5/2/2020,SUM of Sumut,117
+5/2/2020,SUM of Sultra,64
+5/2/2020,SUM of Sulsel,577
+5/2/2020,SUM of Sulteng,59
+5/2/2020,SUM of Lampung,50
+5/2/2020,SUM of Riau,45
+5/2/2020,SUM of Maluku Utara,41
+5/2/2020,SUM of Maluku,23
+5/2/2020,SUM of Papua Barat,43
+5/2/2020,SUM of Papua,240
+5/2/2020,SUM of Sulbar,44
+5/2/2020,SUM of NTT,3
+5/2/2020,SUM of Gorontalo,15
+5/2/2020,SUM of Z_NA,24
+5/3/2020,SUM of Aceh,12
+5/3/2020,SUM of Bali,262
+5/3/2020,SUM of Banten,432
+5/3/2020,SUM of Bangka Belitung,20
+5/3/2020,SUM of Bengkulu,12
+5/3/2020,SUM of DIY,115
+5/3/2020,SUM of Jakarta,4463
+5/3/2020,SUM of Jambi,38
+5/3/2020,SUM of Jabar,1054
+5/3/2020,SUM of Jateng,776
+5/3/2020,SUM of Jatim,1117
+5/3/2020,SUM of Kalbar,70
+5/3/2020,SUM of Kaltim,162
+5/3/2020,SUM of Kalteng,157
+5/3/2020,SUM of Kalsel,195
+5/3/2020,SUM of Kaltara,122
+5/3/2020,SUM of Kep Riau,92
+5/3/2020,SUM of NTB,269
+5/3/2020,SUM of Sumsel,185
+5/3/2020,SUM of Sumbar,195
+5/3/2020,SUM of Sulut,45
+5/3/2020,SUM of Sumut,123
+5/3/2020,SUM of Sultra,64
+5/3/2020,SUM of Sulsel,601
+5/3/2020,SUM of Sulteng,59
+5/3/2020,SUM of Lampung,50
+5/3/2020,SUM of Riau,53
+5/3/2020,SUM of Maluku Utara,50
+5/3/2020,SUM of Maluku,23
+5/3/2020,SUM of Papua Barat,43
+5/3/2020,SUM of Papua,240
+5/3/2020,SUM of Sulbar,44
+5/3/2020,SUM of NTT,10
+5/3/2020,SUM of Gorontalo,15
+5/3/2020,SUM of Z_NA,24
+5/4/2020,SUM of Aceh,12
+5/4/2020,SUM of Bali,271
+5/4/2020,SUM of Banten,446
+5/4/2020,SUM of Bangka Belitung,20
+5/4/2020,SUM of Bengkulu,12
+5/4/2020,SUM of DIY,115
+5/4/2020,SUM of Jakarta,4539
+5/4/2020,SUM of Jambi,38
+5/4/2020,SUM of Jabar,1252
+5/4/2020,SUM of Jateng,798
+5/4/2020,SUM of Jatim,1124
+5/4/2020,SUM of Kalbar,73
+5/4/2020,SUM of Kaltim,167
+5/4/2020,SUM of Kalteng,180
+5/4/2020,SUM of Kalsel,198
+5/4/2020,SUM of Kaltara,130
+5/4/2020,SUM of Kep Riau,92
+5/4/2020,SUM of NTB,269
+5/4/2020,SUM of Sumsel,185
+5/4/2020,SUM of Sumbar,203
+5/4/2020,SUM of Sulut,45
+5/4/2020,SUM of Sumut,129
+5/4/2020,SUM of Sultra,64
+5/4/2020,SUM of Sulsel,607
+5/4/2020,SUM of Sulteng,59
+5/4/2020,SUM of Lampung,54
+5/4/2020,SUM of Riau,58
+5/4/2020,SUM of Maluku Utara,50
+5/4/2020,SUM of Maluku,23
+5/4/2020,SUM of Papua Barat,43
+5/4/2020,SUM of Papua,240
+5/4/2020,SUM of Sulbar,44
+5/4/2020,SUM of NTT,10
+5/4/2020,SUM of Gorontalo,15
+5/4/2020,SUM of Z_NA,24
+5/5/2020,SUM of Aceh,12
+5/5/2020,SUM of Bali,277
+5/5/2020,SUM of Banten,458
+5/5/2020,SUM of Bangka Belitung,28
+5/5/2020,SUM of Bengkulu,12
+5/5/2020,SUM of DIY,121
+5/5/2020,SUM of Jakarta,4687
+5/5/2020,SUM of Jambi,43
+5/5/2020,SUM of Jabar,1300
+5/5/2020,SUM of Jateng,849
+5/5/2020,SUM of Jatim,1171
+5/5/2020,SUM of Kalbar,73
+5/5/2020,SUM of Kaltim,168
+5/5/2020,SUM of Kalteng,181
+5/5/2020,SUM of Kalsel,212
+5/5/2020,SUM of Kaltara,131
+5/5/2020,SUM of Kep Riau,97
+5/5/2020,SUM of NTB,285
+5/5/2020,SUM of Sumsel,199
+5/5/2020,SUM of Sumbar,221
+5/5/2020,SUM of Sulut,45
+5/5/2020,SUM of Sumut,130
+5/5/2020,SUM of Sultra,69
+5/5/2020,SUM of Sulsel,640
+5/5/2020,SUM of Sulteng,70
+5/5/2020,SUM of Lampung,55
+5/5/2020,SUM of Riau,61
+5/5/2020,SUM of Maluku Utara,50
+5/5/2020,SUM of Maluku,23
+5/5/2020,SUM of Papua Barat,49
+5/5/2020,SUM of Papua,247
+5/5/2020,SUM of Sulbar,58
+5/5/2020,SUM of NTT,12
+5/5/2020,SUM of Gorontalo,15
+5/5/2020,SUM of Z_NA,22
+5/6/2020,SUM of Aceh,17
+5/6/2020,SUM of Bali,277
+5/6/2020,SUM of Banten,487
+5/6/2020,SUM of Bangka Belitung,28
+5/6/2020,SUM of Bengkulu,14
+5/6/2020,SUM of DIY,122
+5/6/2020,SUM of Jakarta,4770
+5/6/2020,SUM of Jambi,47
+5/6/2020,SUM of Jabar,1320
+5/6/2020,SUM of Jateng,891
+5/6/2020,SUM of Jatim,1221
+5/6/2020,SUM of Kalbar,90
+5/6/2020,SUM of Kaltim,182
+5/6/2020,SUM of Kalteng,186
+5/6/2020,SUM of Kalsel,225
+5/6/2020,SUM of Kaltara,131
+5/6/2020,SUM of Kep Riau,98
+5/6/2020,SUM of NTB,289
+5/6/2020,SUM of Sumsel,210
+5/6/2020,SUM of Sumbar,238
+5/6/2020,SUM of Sulut,45
+5/6/2020,SUM of Sumut,141
+5/6/2020,SUM of Sultra,69
+5/6/2020,SUM of Sulsel,665
+5/6/2020,SUM of Sulteng,70
+5/6/2020,SUM of Lampung,63
+5/6/2020,SUM of Riau,61
+5/6/2020,SUM of Maluku Utara,50
+5/6/2020,SUM of Maluku,23
+5/6/2020,SUM of Papua Barat,53
+5/6/2020,SUM of Papua,248
+5/6/2020,SUM of Sulbar,58
+5/6/2020,SUM of NTT,12
+5/6/2020,SUM of Gorontalo,15
+5/6/2020,SUM of Z_NA,22
+Grand Total,SUM of Aceh,288
+,SUM of Bali,5023
+,SUM of Banten,12228
+,SUM of Bangka Belitung,305
+,SUM of Bengkulu,225
+,SUM of DIY,2638
+,SUM of Jakarta,108692
+,SUM of Jambi,562
+,SUM of Jabar,25646
+,SUM of Jateng,15434
+,SUM of Jatim,21657
+,SUM of Kalbar,1233
+,SUM of Kaltim,2818
+,SUM of Kalteng,2610
+,SUM of Kalsel,3336
+,SUM of Kaltara,2071
+,SUM of Kep Riau,2032
+,SUM of NTB,3906
+,SUM of Sumsel,2898
+,SUM of Sumbar,3041
+,SUM of Sulut,882
+,SUM of Sumut,2970
+,SUM of Sultra,1196
+,SUM of Sulsel,12032
+,SUM of Sulteng,1007
+,SUM of Lampung,1104
+,SUM of Riau,1060
+,SUM of Maluku Utara,538
+,SUM of Maluku,495
+,SUM of Papua Barat,544
+,SUM of Papua,4050
+,SUM of Sulbar,651
+,SUM of NTT,74
+,SUM of Gorontalo,237
+,SUM of Z_NA,1255
