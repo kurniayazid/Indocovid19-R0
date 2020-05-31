@@ -2531,7 +2531,7 @@ Tanggal,Values,
 5/27/2020,SUM of Jateng,"1,326"
 5/27/2020,SUM of Jatim,"4,142"
 5/27/2020,SUM of Kalbar,183
-5/27/2020,SUM of Kaltim,280
+5/27/2020,SUM of Kaltim,380
 5/27/2020,SUM of Kalteng,330
 5/27/2020,SUM of Kalsel,703
 5/27/2020,SUM of Kaltara,165
@@ -2627,39 +2627,111 @@ Tanggal,Values,
 5/29/2020,SUM of Gorontalo,68
 5/29/2020,SUM of Z_NA,21
 5/29/2020,SUM of NASIONAL,25216
-Grand Total,SUM of Aceh,703
-,SUM of Bali,13285
-,SUM of Banten,27696
-,SUM of Bangka Belitung,1068
-,SUM of Bengkulu,1486
-,SUM of DIY,7132
-,SUM of Jakarta,247137
-,SUM of Jambi,2376
-,SUM of Jabar,66475
-,SUM of Jateng,41890
-,SUM of Jatim,81399
-,SUM of Kalbar,4461
-,SUM of Kaltim,8683
-,SUM of Kalteng,8406
-,SUM of Kalsel,14000
-,SUM of Kaltara,5534
-,SUM of Kep Riau,5026
-,SUM of NTB,13260
-,SUM of Sumsel,15769
-,SUM of Sumbar,12335
-,SUM of Sulut,4332
-,SUM of Sumut,8642
-,SUM of Sultra,5105
-,SUM of Sulsel,35737
-,SUM of Sulteng,3481
-,SUM of Lampung,3099
-,SUM of Riau,3278
-,SUM of Maluku Utara,2568
-,SUM of Maluku,2855
-,SUM of Papua Barat,2874
-,SUM of Papua,13527
-,SUM of Sulbar,2405
-,SUM of NTT,1271
-,SUM of Gorontalo,1051
-,SUM of Z_NA,1739
-,SUM of NASIONAL,670242
+5/30/2020,SUM of Aceh,20
+5/30/2020,SUM of Bali,455
+5/30/2020,SUM of Banten,858
+5/30/2020,SUM of Bangka Belitung,45
+5/30/2020,SUM of Bengkulu,86
+5/30/2020,SUM of DIY,233
+5/30/2020,SUM of Jakarta,"7,229"
+5/30/2020,SUM of Jambi,97
+5/30/2020,SUM of Jabar,"2,231"
+5/30/2020,SUM of Jateng,"1,366"
+5/30/2020,SUM of Jatim,"4,613"
+5/30/2020,SUM of Kalbar,184
+5/30/2020,SUM of Kaltim,291
+5/30/2020,SUM of Kalteng,398
+5/30/2020,SUM of Kalsel,893
+5/30/2020,SUM of Kaltara,165
+5/30/2020,SUM of Kep Riau,196
+5/30/2020,SUM of NTB,594
+5/30/2020,SUM of Sumsel,963
+5/30/2020,SUM of Sumbar,552
+5/30/2020,SUM of Sulut,322
+5/30/2020,SUM of Sumut,406
+5/30/2020,SUM of Sultra,241
+5/30/2020,SUM of Sulsel,"1,510"
+5/30/2020,SUM of Sulteng,126
+5/30/2020,SUM of Lampung,132
+5/30/2020,SUM of Riau,117
+5/30/2020,SUM of Maluku Utara,146
+5/30/2020,SUM of Maluku,215
+5/30/2020,SUM of Papua Barat,162
+5/30/2020,SUM of Papua,658
+5/30/2020,SUM of Sulbar,88
+5/30/2020,SUM of NTT,91
+5/30/2020,SUM of Gorontalo,69
+5/30/2020,SUM of Z_NA,21
+5/30/2020,SUM of NASIONAL,25773
+5/31/2020,SUM of Aceh,20
+5/31/2020,SUM of Bali,465
+5/31/2020,SUM of Banten,861
+5/31/2020,SUM of Bangka Belitung,46
+5/31/2020,SUM of Bengkulu,91
+5/31/2020,SUM of DIY,236
+5/31/2020,SUM of Jakarta,"7,348"
+5/31/2020,SUM of Jambi,97
+5/31/2020,SUM of Jabar,"2,260"
+5/31/2020,SUM of Jateng,"1,403"
+5/31/2020,SUM of Jatim,"4,857"
+5/31/2020,SUM of Kalbar,189
+5/31/2020,SUM of Kaltim,295
+5/31/2020,SUM of Kalteng,410
+5/31/2020,SUM of Kalsel,919
+5/31/2020,SUM of Kaltara,165
+5/31/2020,SUM of Kep Riau,197
+5/31/2020,SUM of NTB,636
+5/31/2020,SUM of Sumsel,982
+5/31/2020,SUM of Sumbar,567
+5/31/2020,SUM of Sulut,339
+5/31/2020,SUM of Sumut,409
+5/31/2020,SUM of Sultra,244
+5/31/2020,SUM of Sulsel,"1,541"
+5/31/2020,SUM of Sulteng,128
+5/31/2020,SUM of Lampung,133
+5/31/2020,SUM of Riau,117
+5/31/2020,SUM of Maluku Utara,153
+5/31/2020,SUM of Maluku,223
+5/31/2020,SUM of Papua Barat,168
+5/31/2020,SUM of Papua,675
+5/31/2020,SUM of Sulbar,92
+5/31/2020,SUM of NTT,92
+5/31/2020,SUM of Gorontalo,94
+5/31/2020,SUM of Z_NA,21
+5/31/2020,SUM of NASIONAL,26473
+Grand Total,SUM of Aceh,743
+,SUM of Bali,14205
+,SUM of Banten,29415
+,SUM of Bangka Belitung,1159
+,SUM of Bengkulu,1663
+,SUM of DIY,7601
+,SUM of Jakarta,261714
+,SUM of Jambi,2570
+,SUM of Jabar,70966
+,SUM of Jateng,44659
+,SUM of Jatim,90869
+,SUM of Kalbar,4834
+,SUM of Kaltim,9269
+,SUM of Kalteng,9214
+,SUM of Kalsel,15812
+,SUM of Kaltara,5864
+,SUM of Kep Riau,5419
+,SUM of NTB,14490
+,SUM of Sumsel,17714
+,SUM of Sumbar,13454
+,SUM of Sulut,4993
+,SUM of Sumut,9457
+,SUM of Sultra,5590
+,SUM of Sulsel,38788
+,SUM of Sulteng,3735
+,SUM of Lampung,3364
+,SUM of Riau,3512
+,SUM of Maluku Utara,2867
+,SUM of Maluku,3293
+,SUM of Papua Barat,3204
+,SUM of Papua,14860
+,SUM of Sulbar,2585
+,SUM of NTT,1454
+,SUM of Gorontalo,1214
+,SUM of Z_NA,1781
+,SUM of NASIONAL,722488
